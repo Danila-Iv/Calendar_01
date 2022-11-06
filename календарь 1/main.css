@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    background: black; 
+    color: white;
+    border-spacing: 5px; 
+   }
+   td {
+    background: rgb(247, 4, 4); 
+    padding: 5px; 
+    text-align: center;
+    font-size: 20px;
+   }
+   h1{
+    text-align: center;
+   }
+   body{
+    background-color: rgb(255, 255, 255);
+   }
+   a{
+    font-size: 40px;
+    color: rgb(229, 11, 11);
+   }
